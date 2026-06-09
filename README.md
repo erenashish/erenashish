@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am passionate about building real-world projects,coding, problem-solving, and building impactful projects, learning new technologies, and continuously improving my skills in software development and artificial intelligence.
-https://camo.githubusercontent.com/bdf8a24fa2cd9ad2127ab36b2f333a6cd3c4bcb1e75e9268f4609a783e2b7e4e/68747470733a2f2f7061636d616e2e61626f7a616e6f6e612e6d652f3f757365726e616d653d736861757279612d746977617269
+## 🐍 Contribution Game
+
+![snake gif](https://github.com/erenashish/erenashish/blob/output/github-contribution-grid-snake.svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-singh-7a1bbb335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eren.ashish@gmail.com) 
 
