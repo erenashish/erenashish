@@ -1,4 +1,5 @@
 # 💫 About Me:
+━ ᴀsʜɪsʜ ᴋᴜᴍᴀʀ sɪɴɢʜ :･ﾟ✧
 I am passionate about building real-world projects,coding, problem-solving, and building impactful projects, learning new technologies, and continuously improving my skills in software development and artificial intelligence.
 ## 🐍 Contribution Game
 
